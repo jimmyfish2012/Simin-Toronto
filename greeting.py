@@ -3,4 +3,4 @@
 # Description: put people's name as input and print a greeting message
 
 person_name = input("Please enter your name: ")
-print ("Hello " + person_name+"!")
+print("Hello " + person_name+"!")
